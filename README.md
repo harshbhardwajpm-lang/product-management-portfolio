@@ -16,7 +16,7 @@ As a Product Owner / Business Analyst in the Data Exchange (DES) team:
 - Enhanced stakeholder satisfaction by aligning India and US priorities.
 
 ## Project Artifacts
-- [Product Requirements Document (PRD)]Create CreditCardProcessing.md
+- [Product Requirements Document (PRD)](docs/Create CreditCardProcessing.md)
 - [Backlog Prioritization Matrix](docs/Backlog_Prioritization.xlsx)
 - [Compliance Audit Logs Case Study](docs/Compliance_Audit_Logs.pdf)
 - [KPI Dashboard](docs/KPI_Dashboard.png)
