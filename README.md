@@ -19,7 +19,7 @@ As a Product Owner / Business Analyst in the Data Exchange (DES) team:
 - https://github.com/harshbhardwajpm-lang/product-management-portfolio/blob/main/CreditCardProcessing.md
 - https://github.com/harshbhardwajpm-lang/product-management-portfolio/blob/main/Backlog%20Matrix
 - https://github.com/harshbhardwajpm-lang/product-management-portfolio/blob/main/docs/Compliance_Audit_Logs_Case_Study.md
-- [KPI Dashboard](docs/KPI_Dashboard.png)
+- https://github.com/harshbhardwajpm-lang/product-management-portfolio/new/main
 
 ## How to Use
 This repository contains case studies, documents, and templates showcasing product management practices in credit card processing. Each folder includes:
