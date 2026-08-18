@@ -18,7 +18,7 @@ As a Product Owner / Business Analyst in the Data Exchange (DES) team:
 ## Project Artifacts
 - https://github.com/harshbhardwajpm-lang/product-management-portfolio/blob/main/CreditCardProcessing.md
 - https://github.com/harshbhardwajpm-lang/product-management-portfolio/blob/main/Backlog%20Matrix
-- [Compliance Audit Logs Case Study](docs/Compliance_Audit_Logs.pdf)
+- https://github.com/harshbhardwajpm-lang/product-management-portfolio/blob/main/docs/Compliance_Audit_Logs_Case_Study.md
 - [KPI Dashboard](docs/KPI_Dashboard.png)
 
 ## How to Use
