@@ -1,0 +1,8 @@
+ #Backlog Prioritization Matrix
+
+| Feature / User Story | Business Value (1–5) | Effort (1–5) | Priority Score (Value ÷ Effort) | Notes |
+|-----------------------|----------------------|--------------|---------------------------------|-------|
+| Automation Scripts    | 5                    | 3            | 1.67                            | Reduced reconciliation errors by 15% |
+| Compliance Dashboards | 4                    | 4            | 1.00                            | Improved settlement timelines by 20% |
+| Audit-Ready Logs      | 3                    | 2            | 1.50                            | Cut compliance review time by 25% |
+| KPI Dashboard         | 4                    | 3            | 1.33   
